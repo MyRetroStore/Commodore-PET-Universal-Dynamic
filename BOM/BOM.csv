@@ -1,0 +1,85 @@
+Reference,Value,Qty
+"C1, C16, C17, C23, C24",10uF axial electrolytic capacitor,5
+C2,470uF radial electrolytic capacitor,1
+"C3, C4",22nF monolithic ceramic capacitor,2
+C5,4700uF 25V radial electrolytic capacitor,1
+C6,1uF 25V radial electrolytic capacitor,1
+C7,47uF 16V axial electrolytic capacitor,1
+C10,1uF axial electrolytic capacitor,1
+C51,1uF tantalum capacitor,2
+C11,47uF axial electrolytic capacitor,1
+"C12, C13, C14, C15, C18, C20, C21, C22, C25, C26, C27, C28, C30, C31, C32, C33, C34, C35, C36, C37, C38, C40, C41, C42, C43, C44, C45, C46, C47, C48, C49, C50, C53, C55, C56, C57, C58, C59, C62, C63, C64, C65, C66, C67, C68, C69, C70, C71, C72, C75, C87, C89, C90, C95, C96",100nF monolithic ceramic capacitor,55
+"C52, C60, C61",10nF monolithic ceramic capacitor,3
+"C74, C76, C77, C78, C79, C80, C81, C82, C83, C84, C85, C86, C88, C98",47pF monolithic ceramic capacitor,14
+C91,100pF monolithic ceramic capacitor,1
+C92,220pF monolithic ceramic capacitor,1
+C93,47nF monolithic ceramic capacitor,1
+C94,33nF monolithic ceramic capacitor,1
+C97,82pF monolithic ceramic capacitor,1
+"CR1, CR5, CR7",1N4005,3
+"CR2, CR4",Bridge Rectifier 50V 4A,2
+CR3,1N5402,1
+"FB1, FB2, FB3, FB4, FB5, FB6, FB7, FB8, FB9, FB10, FB11, FB12, FB13, FB14, FB15, FB16, FB17, FB18, FB19, FB20, FB21, FB22, FB23, FB24, FB25, FB26, FB28, FB29",Ferrite Bead,28
+"J4, J9",2x25 Male Header 2.54mm,2
+J5,1x20 Male Header 2.54mm,1
+J7,1x7 Male Header 2.54mm (Long pins),1
+J8,1 x 9 Male Header  3.96mm,1
+"J10, J11",1x7 Male Header 2.54mm (Long pins),2
+"L1, L2",2.2uH axial Inductor,2
+MT1,Piezo Speaker,1
+"Q1, Q2",TIP29 Transistor TO-220,2
+"R1, R2, R3, R4, R5, R6, R12, R15, R22, R26, R28, R39, R42, R43, R44, R45",1k ¼W Carbon film resistor,16
+R7,39R ¼W Carbon film resistor,1
+R8,10R ¼W Carbon film resistor,1
+"R10, R11",27R ¼W Carbon film resistor,2
+"R13, R16, R17",470R ¼W Carbon film resistor,3
+R14,3k3 ¼W Carbon film resistor,1
+"R18, R20",2k4 ¼W Carbon film resistor,2
+"R19, R21",5k1 ¼W Carbon film resistor,2
+"R23, R27",10k ¼W Carbon film resistor,2
+"R24, R25",1M ¼W Carbon film resistor,2
+"R32, R33, R34, R35, R36, R37, R38, R46, R49",68R ¼W Carbon film resistor,9
+R40,100R ¼W Carbon film resistor,1
+"R47, R48",1k5 ¼W Carbon film resistor,2
+"R50, R52",47R ¼W Carbon film resistor,2
+R51,4k7 ¼W Carbon film resistor,1
+R53,2k2 ¼W Carbon film resistor,1
+UA2,74LS166,1
+UA3,2316  901447-10,1
+"UA4, UA5, UA6, UA7, UA8, UA9, UA10, UA11, UA12, UA13, UA14, UA15, UA16, UA17, UA18, UA19",TMS4116,16
+"UA20, UB17, UC12",MC3446,3
+"UB1, UB2, UC1, UE1",74LS74,4
+"UB3, UB8",74LS373,2
+"UB4, UB5, UB6, UB7, UB9, UB10, UD13, UD14, UE8, UE9, UE10",74LS244,11
+UB11,MDP1401-103,1
+"UB12, UB16",MOS6520,2
+UB13,MOS6545,1
+UB14,MOS6502,1
+UB15,MOS6522,1
+UC2,74LS86,1
+UC3,74LS138,1
+"UC4, UC5, UC6, UC7",UPD2114,4
+"UC8, UC9, UC10, UE2",74LS157,4
+UC11,74LS145,1
+UD1,74LS02,1
+"UD2, UE4, UE15",74LS04,3
+"UD3, UE6",74LS393,2
+"UD4, UE7, UE13",74LS10,3
+"UD5, UE5, UE11, UF1",74LS00,4
+UD6,2332 901465-22,1
+UD7,2316 901474-03,1
+"UD11, UD12",Empty (Spare),3
+UD8,2332 901465-21,1
+UD9,2332 901465-20,1
+UD10,2332 901465-23,1
+UD15,74LS17,1
+UD16,LM555N,1
+UE3,74LS164,1
+UE12,74LS154,1
+UE14,74LS25,1
+UE16,Q2T2222,1
+VR1,LM7905 TO-220,1
+VR2,LM7812 TO-3,1
+VR4,LM340-5,1
+"VR5, VR6",Zener Diode 7.5V,2
+Y1,16MHz HC49,1

@@ -73,7 +73,7 @@ I couldn't have built and tested this without his PETTESTER ROM- it also helped 
 ### Purchasing
 
 If you'd like to purchase a bare PCB:
-- UK buyers: Order from my [store](https://myretostore.co.uk)
+- UK buyers: Order from my [store](https://myretrostore.co.uk)
 - International buyers: Purchase via [eBay](https://www.ebay.co.uk/str/myretrostoreuk/Commodore/_i.html?store_cat=37608566017), with shipping through eBay's Global Shipping Program. 
 
 ### Disclaimer
